@@ -1,4 +1,4 @@
 import numpy as np
 
-a= np.array(range(11))
+a= np.array(range(13))
 print a
